@@ -1,0 +1,15 @@
+{
+  "name": "Mrs. AVN Polytechnic AI Chat",
+  "short_name": "AVN AI",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a58ca",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4712/4712109.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
